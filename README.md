@@ -1,1 +1,0 @@
-# zygisk-privacy-and-terms
